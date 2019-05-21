@@ -1,4 +1,4 @@
-# Tatari Engineering Homework
+# Tatari Engineering Hiring Homework
 
 ### Welcome!
 
@@ -13,6 +13,6 @@ We have offices in Los Angeles, San Francisco, Toronto, and New York City.
 We are also open to remote positions for the right people.
 
 
-Any questions? Email us at [github@mail.tatari.tv](mailto:github@mail.tatari.tv).
+Any questions? Email us at [github@tatari.tv](mailto:github@tatari.tv).
 
 Thanks!
