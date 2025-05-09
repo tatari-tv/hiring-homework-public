@@ -1,0 +1,6 @@
+# docs: https://tatari.atlassian.net/wiki/spaces/SRE/pages/1842610200/Github+Repo+Ownership
+## List teams that should be notified of PRs here.
+# You can also split into different paths for different teams.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @tatari-tv/engineering
